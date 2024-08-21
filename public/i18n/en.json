@@ -1,0 +1,128 @@
+{
+    "auth": {
+        "error": {
+            "emailRequiredError": "Email is required",
+            "emailInvalidError": "Please enter a valid email address",
+            "passwordRequiredError": "Password is required",
+            "passwordMinLengthError": "Password must be at least 6 characters long",
+            "passwordStrengthError": "Password must include at least one number and one special character"
+        },
+        "sign-in": {
+            "signIn": "Sign In",
+            "enterCredentials": "Enter your email and password to sign in",
+            "email": "Email",
+            "password": "Password",
+            "rememberMe": "Remember me",
+            "noAccount": "Don't have an account?",
+            "signUp": " Sign up",
+            "attentionCurrency": "Attention is the new currency",
+            "writingEffort": "The more effortless the writing looks, the more effort the writer actually put into the process."
+        }
+    },
+    "dashboard": {
+        "sidebar": {
+            "title": "Soft UI Dashboard PRO",
+            "help": "Need help?",
+            "checkDocs": "Please check our docs",
+            "docs": "Documentation"
+        }
+    },
+    "account-profile": {
+        "account-profile-main": {
+            "switch": "Switch to invisible"
+        }
+    },
+    "account-change-password": {
+        "account-change-password-main": {
+            "changePassword": "Change Password",
+            "currentPassword": "Current Password",
+            "newPassword": "New Password",
+            "confirmPassword": "Confirm New Password",
+            "updatePassword": "Update Password",
+            "passwordRequirements": "Password requirements",
+            "strongPasswordGuide": "Please follow this guide for a strong password",
+            "specialCharacters": "One special character",
+            "minCharacters": "Min 6 characters",
+            "oneNumber": "One number (2 are recommended)",
+            "changeOften": "Change it often"
+        }
+    },
+    "two-factor-auth": {
+        "two-factor-auth-main": {
+            "title": "Two-factor authentication",
+            "statusEnabled": "Enabled",
+            "statusDisabled": "Disabled"
+        },
+        "two-factor-auth-action": {
+            "SecurityKeyLabel": "Security keys",
+            "noKeys": "No Security Keys",
+            "smsLabel": "SMS number",
+            "authLabel": "Authenticator app",
+            "notConfided": "Not Configured",
+            "addButton": "Add",
+            "editButton": "Edit",
+            "setupButton": "Set Up"
+        }
+    },
+    "profile-project": {
+        "project": {
+            "header": "Some of Our Awesome Projects",
+            "description": "This is the paragraph where you can write more details about your projects. Keep your user engaged by providing meaningful information."
+        },
+        "profile-project-item": {
+            "participant": "Participants",
+            "date": "Due date",
+            "actionTitle": "Action",
+            "anotherCationTitle": "Another action",
+            "otherTitle": "Something else here"
+        },
+        "profile-project-new": {
+            "newProject": "New Project"
+        }
+    },
+    "profile-overview-general": {
+        "profile-overview-platform-setting": {
+            "mainHeading": "Platform Settings",
+            "accountHeading": "Account",
+            "emailWhenFollows": "Email me when someone follows me",
+            "emailWhenAnswers": "Email me when someone answers on my post",
+            "emailWhenMentions": "Email me when someone mentions me",
+            "applicationHeading": "Application",
+            "newLaunchesAndProjects": "New launches and projects",
+            "monthlyProductUpdates": "Monthly product updates",
+            "subscribeToNewsletter": "Subscribe to newsletter"
+        },
+        "profile-overview-profile-information": {
+            "profileInformation": "Profile Information",
+            "fullName": "Full Name",
+            "mobile": "Mobile",
+            "email": "Email",
+            "location": "Location",
+            "social": "Social",
+            "editProfile": "Edit Profile"
+        },
+        "profile-overview-conversation": {
+            "conversationTitle": "Conversations"
+        },
+        "profile-overview-conversation-item": {
+            "replyItem": "reply"
+        },
+        "profile-overview-house-project": {
+            "title": "Projects",
+            "intro": "Architects design houses"
+        },
+        "profile-overview-house-project-item": {
+            "title": "Project",
+            "view": "View Projects"
+        },
+        "profile-overview-new-house-project": {
+            "title": "New project"
+        }
+    },
+    "password-input": {
+        "passwordRequiredError": "Password is required",
+        "passwordMinLengthError": "Password must be at least 6 characters long",
+        "passwordStrengthError": "Password must include at least one number and one special character",
+        "passwordMismatchError": "Passwords do not match"
+    }
+}
